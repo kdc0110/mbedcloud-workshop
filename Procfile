@@ -1,1 +1,1 @@
-web: gunicorn seoulhackathon.wsgi
+web: gunicorn mysite.wsgi
