@@ -1,3 +1,7 @@
 .vscode
 venv/
 db.sqlite3
+*.pc
+*.pyc
+*.pyo
+__pycache__
